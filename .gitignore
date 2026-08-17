@@ -1,0 +1,17 @@
+*.class
+*.jar
+*.log
+*.jsonl
+*.csv
+*.txt
+
+exports/
+output/
+reports/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+Thumbs.db
